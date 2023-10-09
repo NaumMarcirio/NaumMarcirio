@@ -26,6 +26,5 @@ Olá, eu sou Naum Marcirio, um desenvolvedor entusiasta apaixonado por tecnologi
 ## Contato
 
 - LinkedIn: [Naum Marcirio](#)
-- Twitter: [@NaumMarcirio](#)
 - ...
 
