@@ -19,7 +19,7 @@ Olá, eu sou Naum Marcirio, um desenvolvedor entusiasta apaixonado por tecnologi
 
 ## Projetos Destacados
 
-- [Projeto 1](#): Breve descrição do projeto.
+- [Projeto 1]("https://labtec.satc.edu.br/"): O Labtec é um site acadêmico onde será postado artigos com os projetos desenvolvidos e em desenvolvimento pelo Labtec, Feito em React TypeScript, Java e as Libs mais atuais.
 - [Projeto 2](#): Breve descrição do projeto.
 - ...
 
