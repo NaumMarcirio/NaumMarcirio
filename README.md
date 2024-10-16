@@ -19,9 +19,9 @@ Olá, eu sou Naum Marcirio, um desenvolvedor entusiasta apaixonado por tecnologi
 
 ## Projetos Destacados
 
-- [Projeto 1]("https://labtec.satc.edu.br/"): O Labtec é um site acadêmico onde será postado artigos com os projetos desenvolvidos e em desenvolvimento pelo Labtec, Feito em React TypeScript, Java e as Libs mais atuais.
-- [Projeto 2](#): Breve descrição do projeto.
-- ...
+- [Site Labtec](https://labtec.satc.edu.br/): O Labtec é um site acadêmico onde será postado artigos com os projetos desenvolvidos e em desenvolvimento pelo Labtec e atualizar os colaboradores do Labtec, alunos e professores. Feito em React TypeScript, Java e as Libs mais atuais.
+- [Csirt Satc](https://csirt.satc.edu.br/): Csirt Satc, é o site da Satc focado em Cibersegurança, aqui são postados artigos envolvendo esse tema, desenvolvido em React, Java.
+- [Living Lab](https://livinglab.satc.edu.br/): Uma landing Page feita para um projeto acadêmico com incentivo ao desenvolvimento regional de sistemas de carregamento de veículos elétricos.
 
 ## Contato
 
