@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Olá, eu sou Naum Marcirio, um desenvolvedor entusiasta apaixonado por tecnologia. Estudante de Engenharia de Software, focado principalmente nas linguagens e tecnologias: JavaScript, HTML, CSS, Tailwind, React.
+Olá, eu sou Naum Marcirio, um desenvolvedor entusiasta apaixonado por tecnologia. Estudante de Engenharia de Software, focado principalmente nas linguagens e tecnologias: React, Typescript, Styled-Components, Tailwind, SQL, Git e GitHub.
 
 ## Projetos Destacados
 
