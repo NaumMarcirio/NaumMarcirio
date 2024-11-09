@@ -34,8 +34,7 @@
 <div align="center">
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="ReactJs" alt="ReactJs" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="Typescript" alt="Typescript" /></code>
-<img height="40"  height="40" src="https://upload.vectorlogo.zone/logos/styled-components/images/5f59240a-d7b6-4314-bba8-0e799745b69c.html" title="Styled-Components" alt="StyledComponents" /></code>
-<img height="40"  height="40" src="https://upload.vectorlogo.zone/logos/tailwindcss" title="Tailwind" alt="TailWind" /></code>
+<img height="40"  height="40" src="https://upload.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="TailWind" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
