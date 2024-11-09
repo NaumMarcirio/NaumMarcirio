@@ -62,7 +62,8 @@
 
 <div align="center">
   
-[![Tailwind CSS: estilizando a sua página com classes utilitárias](https://cursos.alura.com.br/certificate/Marcirionaum2017/tailwind-css-estilizando-pagina-classes-utilitarias)](https://cursos.alura.com.br/certificate/Marcirionaum2017/tailwind-css-estilizando-pagina-classes-utilitarias)
+[![Tailwind CSS: estilizando a sua página com classes utilitárias](https://via.placeholder.com/150)](https://cursos.alura.com.br/certificate/Marcirionaum2017/tailwind-css-estilizando-pagina-classes-utilitarias)
+
 [![Título da Certificação 2](URL_DA_IMAGEM)](URL_DO_CERTIFICADO)
 [![Título da Certificação 3](URL_DA_IMAGEM)](URL_DO_CERTIFICADO)
 [![Título da Certificação 4](URL_DA_IMAGEM)](URL_DO_CERTIFICADO)
