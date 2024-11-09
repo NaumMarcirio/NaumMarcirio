@@ -44,7 +44,7 @@
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma">
 </div>
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=40E0D0&backgrounda=FF52BC00&width=610&lines=Acordo+codo+estudo%20e+durmo" alt="Typing SVG" /></a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaumMarcirio&radius=16&theme=gotham&area=true&order=5&color=40E0D0"/>
 
