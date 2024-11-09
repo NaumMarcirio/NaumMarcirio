@@ -62,6 +62,16 @@ Hello, I’m Naum Marcirio, a 6th-semester Software Engineering student. I’m a
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naum-marcirio/)
 </div>
 
+### Projetos
+
+Aqui estão alguns dos meus projetos:
+
+- [Labtec](https://labtec.satc.edu.br/) - Site do Labtec, onde mostra os professores e estagiários e tem as postagens relacionadas à tecnologia.
+- [Csirt Satc](https://csirt.satc.edu.br/) - Site do Csirt Satc, para postar os artigos relacionados à CiberSegurança.
+- [Living Lab](https://livinglab.satc.edu.br/) - Landing Page para o Projeto de Engenharia Elétrica sobre Soluções para mobilidade elétrica focada no carregamento de Veículos Elétricos.
+
+Estou constantemente trabalhando em novos projetos para aprender e aprimorar minhas habilidades.
+
 <h2 align="center">🎓 <strong>Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</strong> 🎓</h2>
 
 
