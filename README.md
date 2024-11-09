@@ -9,19 +9,26 @@
 <br /> 
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/NaumMarcirio">
-          <img src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td width="50%">
+        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/NaumMarcirio">
+            <img src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0" alt="GitHub Stats" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Sᴛᴀᴛᴜs</strong></h3>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0&layout=compact&langs_count=8&card_width=320" alt="Language Status"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center">🛠️ <strong>Sᴛᴀᴄᴋs Tᴇᴄʜɴᴏʟᴏɢɪᴇs</strong> 🛠️</h2>
 <div align="center">
