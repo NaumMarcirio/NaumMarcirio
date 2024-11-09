@@ -19,7 +19,7 @@
         </a>
       </p>
     </td>
-    <td width="50%"></td>
+    <td></td>
   </tr>
 </table>
 
