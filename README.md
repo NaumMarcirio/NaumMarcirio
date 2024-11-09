@@ -62,7 +62,9 @@ Hello, I’m Naum Marcirio, a 6th-semester Software Engineering student. I’m a
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naum-marcirio/)
 </div>
 
-### Projetos
+<h2 align="center">🛠️ <strong>Projects</strong> 🛠️</h2>
+
+<h3 >Portuguese</h3>
 
 Aqui estão alguns dos meus projetos:
 
@@ -71,6 +73,16 @@ Aqui estão alguns dos meus projetos:
 - [Living Lab](https://livinglab.satc.edu.br/) - Landing Page para o Projeto de Engenharia Elétrica sobre Soluções para mobilidade elétrica focada no carregamento de Veículos Elétricos.
 
 Estou constantemente trabalhando em novos projetos para aprender e aprimorar minhas habilidades.
+
+<h3>English</h3>
+
+Here are some of my projects:
+
+- [Labtec](https://labtec.satc.edu.br/) - Labtec site, where you can find information about professors, interns, and posts related to technology.
+- [Csirt Satc](https://csirt.satc.edu.br/) - Csirt Satc site, for posting articles related to Cybersecurity.
+- [Living Lab](https://livinglab.satc.edu.br/) - Landing Page for the Electrical Engineering project focused on electric vehicle charging solutions for electric mobility.
+
+I’m constantly working on new projects to learn and improve my skills.
 
 <h2 align="center">🎓 <strong>Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</strong> 🎓</h2>
 
@@ -184,29 +196,7 @@ Estou constantemente trabalhando em novos projetos para aprender e aprimorar min
 <a href="https://cursos.alura.com.br/certificate/10887148-b3b3-4b55-b32f-db4b005eacfe?lang=pt_BR">
   <img src="https://github.com/user-attachments/assets/e37f7e13-e25b-40e4-96a0-ecdaba53e176" alt="React: estilize componentes com Styled Components e manipule arquivos estáticos" width="150px">
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
 </p>
