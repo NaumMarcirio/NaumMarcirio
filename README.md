@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A4F2CC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
   <p align="center"> 
  VISITAS<br> <br>
   <img src="https://profile-counter.glitch.me/NaumMarcirio/count.svg"/>
