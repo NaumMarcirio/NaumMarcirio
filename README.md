@@ -15,8 +15,8 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/NaumMarcirio">
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0)
-        </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0" alt="GitHub Stats" />
+</a>
       </p>
     </td>
     <td width="50%">
