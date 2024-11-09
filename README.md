@@ -62,8 +62,9 @@
 
 <div align="center">
   
-[![Tailwind CSS: estilizando a sua página com classes utilitárias](https://via.placeholder.com/150)](https://cursos.alura.com.br/certificate/Marcirionaum2017/tailwind-css-estilizando-pagina-classes-utilitarias)
-![Captura de tela 2024-11-09 131611](https://github.com/user-attachments/assets/c75fa68c-2cf6-4648-ae3c-09d97f637051)
+<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/tailwind-css-estilizando-pagina-classes-utilitarias">
+  <img src="https://github.com/user-attachments/assets/c75fa68c-2cf6-4648-ae3c-09d97f637051" alt="Tailwind CSS: estilizando a sua página com classes utilitárias" width="200px">
+</a>
 
 </div>
 
