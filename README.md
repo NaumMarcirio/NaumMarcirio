@@ -15,15 +15,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/NaumMarcirio">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0" alt="GitHub Stats" />
-</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/NaumMarcirio">
-          <img align="center" src="https://streak-stats.demolab.com?user=NaumMarcirio&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0" alt="GitHub Stats" />
         </a>
       </p>
     </td>
