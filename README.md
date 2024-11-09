@@ -4,8 +4,13 @@
   <img src="https://profile-counter.glitch.me/NaumMarcirio/count.svg"/>
   </p>
   
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Naum Marcirio! 
-*Software engineering student and FrontEnd Developer*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Naum Marcirio!
+<h3>Portuguese</h3>
+Olá, sou Naum Marcirio, estudante do 6º semestre de Engenharia de Software. Sou um desenvolvedor apaixonado por tecnologia e, atualmente, estou estagiando na Satc, onde trabalho com ferramentas como React, TypeScript, Styled-Components e Figma. Estou sempre em busca de crescimento pessoal e profissional, explorando novas tecnologias e linguagens para aprimorar minhas habilidades e expandir meu conhecimento.
+<h3>English</h3>
+Hello, I’m Naum Marcirio, a 6th-semester Software Engineering student. I’m a developer passionate about technology, currently interning at Satc, where I work with tools like React, TypeScript, Styled-Components, and Figma. I’m always seeking personal and professional growth, exploring new technologies and languages to improve my skills and expand my knowledge.
+
+
 <br /> 
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
