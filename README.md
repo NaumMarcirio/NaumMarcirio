@@ -15,7 +15,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/NaumMarcirio">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0
         </a>
       </p>
     </td>
