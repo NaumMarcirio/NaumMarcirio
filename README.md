@@ -34,14 +34,14 @@
 <div align="center">
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="ReactJs" alt="ReactJs" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="Typescript" alt="Typescript" /></code>
-<img height="40"  height="40" src="https://upload.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="TailWind" /></code>
+<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="TailWind" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite"/></code>
 <img height="40"  height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img height="40"  height="40" src=" https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma">
+<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma">
 </div>
  
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
