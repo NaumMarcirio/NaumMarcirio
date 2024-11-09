@@ -15,7 +15,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/NaumMarcirio">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=40E0D0&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -44,9 +44,9 @@
 <img height="40"  height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma">
 </div>
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaumMarcirio&radius=16&theme=gotham&area=true&order=5&color=8A2BE2"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaumMarcirio&radius=16&theme=gotham&area=true&order=5&color=40E0D0"/>
 
 
  
@@ -70,5 +70,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
 </p>
