@@ -86,8 +86,10 @@ I’m constantly working on new projects to learn and improve my skills.
 
 <h2 align="center">🎓 <strong>Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</strong> 🎓</h2>
 
-
 <div align="center">
+  <a href="https://app.rocketseat.com.br/certificates/5642c309-50d1-458e-8db3-62c7f568c763">
+  <img src="https://github.com/user-attachments/assets/43c84dbe-132b-4ac1-85b8-052fa082ecf1" alt="Fundamentos Java" width="150px">
+</a>
 <a href="https://app.rocketseat.com.br/certificates/fccbe41b-3a3f-46be-a15a-bae9af7ab535">
   <img src="https://github.com/user-attachments/assets/97eab74f-be66-409a-ba74-7aafbf6f7e18" alt="Minicurso de Python" width="150px">
 </a>
