@@ -6,9 +6,13 @@
   
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Naum Marcirio!
 <h3>Portuguese</h3>
-Olá, sou Naum Marcirio, estudante do 6º semestre de Engenharia de Software. Sou um desenvolvedor apaixonado por tecnologia e, atualmente, estou estagiando na Satc, onde trabalho com ferramentas como React, TypeScript, Styled-Components e Figma. Estou sempre em busca de crescimento pessoal e profissional, explorando novas tecnologias e linguagens para aprimorar minhas habilidades e expandir meu conhecimento.
+Olá, sou Naum Marcirio, estudante do 7º semestre de Engenharia de Software. Sou um desenvolvedor apaixonado por tecnologia, atualmente estagiando na Satc, onde atuo no desenvolvimento Front-End com React, TypeScript e Styled-Components, além de utilizar Figma para prototipação. No Back-End, tenho experiência com Java Spring Boot.
+Também possuo conhecimento básico em bancos de dados e experiência com Git e GitHub para versionamento de código. Meu objetivo é sempre aprimorar minhas habilidades e desenvolver soluções eficientes e escaláveis.
+Atualmente, meu inglês é básico, mas estou estudando e praticando para melhorar minha comunicação técnica.
 <h3>English</h3>
-Hello, I’m Naum Marcirio, a 6th-semester Software Engineering student. I’m a developer passionate about technology, currently interning at Satc, where I work with tools like React, TypeScript, Styled-Components, and Figma. I’m always seeking personal and professional growth, exploring new technologies and languages to improve my skills and expand my knowledge.
+Hello, I’m Naum Marcirio, a 7th-semester Software Engineering student and a passionate developer. I’m currently interning at Satc, working on Front-End development with React, TypeScript, and Styled-Components, along with Figma for UI/UX design. On the Back-End, I have experience with Java Spring Boot.
+I also have basic knowledge of databases and experience with Git and GitHub for version control. My goal is to continuously improve my skills and develop scalable and efficient solutions.
+Currently, my English is basic, but I’m actively studying and practicing to improve my technical communication.
 
 
 <br /> 
