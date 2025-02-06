@@ -68,6 +68,8 @@ Currently, my English is basic, but I’m actively studying and practicing to im
 
 <h2 align="center">🛠️ <strong>Projects</strong> 🛠️</h2>
 
+⚠️Currently offline due to the university's certificate.⚠️
+
 <h3 >Portuguese</h3>
 
 Aqui estão alguns dos meus projetos:
