@@ -95,6 +95,12 @@ I’m constantly working on new projects to learn and improve my skills.
   <a href="https://validade.satc.edu.br/api/files/f7ac5fbda2fe7ff1460fb086253c8792.pdf">
   <img src="https://github.com/user-attachments/assets/90772a93-1887-412e-a8e8-bbd07ab7bb51" alt="Desenvolvedor de Software" width="150px">
 </a>
+  <a href="https://validade.satc.edu.br/api/files/73d1b0a3f1ac450e271852dadc4b9063.pdf">
+  <img src="https://github.com/user-attachments/assets/63c26d96-7d65-4185-8a10-af8d313281d2" alt="Arquiteto de Testes de Software" width="150px">
+</a>
+  <a href="https://validade.satc.edu.br/api/files/54a3c8f58d49bb6896143de91c2859ca.pdf">
+  <img src="https://github.com/user-attachments/assets/e04833eb-0b4a-4acf-aa16-1392809ab8f6" alt="Analista em Requisitos de Software" width="150px">
+</a>
   <a href="https://app.rocketseat.com.br/certificates/5642c309-50d1-458e-8db3-62c7f568c763">
   <img src="https://github.com/user-attachments/assets/43c84dbe-132b-4ac1-85b8-052fa082ecf1" alt="Fundamentos Java" width="150px">
 </a>
