@@ -91,8 +91,10 @@ Here are some of my projects:
 I’m constantly working on new projects to learn and improve my skills.
 
 <h2 align="center">🎓 <strong>Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</strong> 🎓</h2>
-
 <div align="center">
+  <a href="https://validade.satc.edu.br/api/files/f7ac5fbda2fe7ff1460fb086253c8792.pdf">
+  <img src="https://github.com/user-attachments/assets/90772a93-1887-412e-a8e8-bbd07ab7bb51" alt="Desenvolvedor de Software" width="150px">
+</a>
   <a href="https://app.rocketseat.com.br/certificates/5642c309-50d1-458e-8db3-62c7f568c763">
   <img src="https://github.com/user-attachments/assets/43c84dbe-132b-4ac1-85b8-052fa082ecf1" alt="Fundamentos Java" width="150px">
 </a>
