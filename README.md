@@ -15,11 +15,10 @@
 ### 👤 About Me
 
 ```yaml
-name: Your Name
+name: Naum Marcirio
 role: Full Stack Developer
-location: Brazil 🇧🇷
-currently_learning: [Something new]
-interests: [Open Source, Building cool stuff]
+currently_learning: Swift
+interests: Web and Mobile Development and Game Development in my free time
 ```
 
 ---
@@ -29,7 +28,6 @@ interests: [Open Source, Building cool stuff]
 <div align="center">
 
   <!-- Languages -->
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
