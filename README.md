@@ -1,14 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BNaum+Maririo%5D+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=6E57F7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 ---
 
