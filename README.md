@@ -1,218 +1,87 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
-  <p align="center"> 
- VISITAS<br> <br>
-  <img src="https://profile-counter.glitch.me/NaumMarcirio/count.svg"/>
-  </p>
-  
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Naum Marcirio!
-<h3>Portuguese</h3>
-Olá, sou Naum Marcirio, estudante do 7º semestre de Engenharia de Software. Sou um desenvolvedor apaixonado por tecnologia, atualmente estagiando na Satc, onde atuo no desenvolvimento Front-End com React, TypeScript e Styled-Components, além de utilizar Figma para prototipação. No Back-End, tenho experiência com Java Spring Boot.
-Também possuo conhecimento básico em bancos de dados e experiência com Git e GitHub para versionamento de código. Meu objetivo é sempre aprimorar minhas habilidades e desenvolver soluções eficientes e escaláveis.
-Atualmente, meu inglês é básico, mas estou estudando e praticando para melhorar minha comunicação técnica.
-<h3>English</h3>
-Hello, I’m Naum Marcirio, a 7th-semester Software Engineering student and a passionate developer. I’m currently interning at Satc, working on Front-End development with React, TypeScript, and Styled-Components, along with Figma for UI/UX design. On the Back-End, I have experience with Java Spring Boot.
-I also have basic knowledge of databases and experience with Git and GitHub for version control. My goal is to continuously improve my skills and develop scalable and efficient solutions.
-Currently, my English is basic, but I’m actively studying and practicing to improve my technical communication.
-
-
-<br /> 
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <div align="center">
-  <table width="80%">
-    <tr>
-      <td width="50%">
-        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-        <p align="center">
-          <a href="https://github.com/NaumMarcirio">
-            <img src="https://github-readme-stats.vercel.app/api?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0" alt="GitHub Stats" />
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Sᴛᴀᴛᴜs</strong></h3>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaumMarcirio&theme=radical&text_color=40E0D0&title_color=40E0D0&icon_color=40E0D0&layout=compact&langs_count=8&card_width=320" alt="Language Status"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+
 </div>
 
-<h2 align="center">🛠️ <strong>Sᴛᴀᴄᴋs Tᴇᴄʜɴᴏʟᴏɢɪᴇs</strong> 🛠️</h2>
-<div align="center">
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="ReactJs" alt="ReactJs" /></code>
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="Typescript" alt="Typescript" /></code>
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="TailWind" /></code>
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite"/></code>
-<img height="40"  height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img height="40"  height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma">
-</div>
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=40E0D0&backgrounda=FF52BC00&width=610&lines=Acordo+Codo+Estudo%20e+Durmo!" alt="Typing SVG" /></a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaumMarcirio&radius=16&theme=gotham&area=true&order=5&color=40E0D0"/>
-
-
- 
-<h2 align="center"><h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2></h2>
+<br/>
 
 <div align="center">
-  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naum-marcirio/)
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=6E57F7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<h2 align="center">🛠️ <strong>Projects</strong> 🛠️</h2>
+---
 
-⚠️Currently offline due to the university's certificate.⚠️
+### 👤 About Me
 
-<h3 >Portuguese</h3>
+```yaml
+name: Your Name
+role: Full Stack Developer
+location: Brazil 🇧🇷
+currently_learning: [Something new]
+interests: [Open Source, Building cool stuff]
+```
 
-Aqui estão alguns dos meus projetos:
+---
 
-- [Labtec](https://labtec.satc.edu.br/) - Site do Labtec, onde mostra os professores e estagiários e tem as postagens relacionadas à tecnologia.
-- [Csirt Satc](https://csirt.satc.edu.br/) - Site do Csirt Satc, para postar os artigos relacionados à CiberSegurança.
-- [Living Lab](https://livinglab.satc.edu.br/) - Landing Page para o Projeto de Engenharia Elétrica sobre Soluções para mobilidade elétrica focada no carregamento de Veículos Elétricos.
+### 🛠️ Tech Stack
 
-Estou constantemente trabalhando em novos projetos para aprender e aprimorar minhas habilidades.
-
-<h3>English</h3>
-
-Here are some of my projects:
-
-- [Labtec](https://labtec.satc.edu.br/) - Labtec site, where you can find information about professors, interns, and posts related to technology.
-- [Csirt Satc](https://csirt.satc.edu.br/) - Csirt Satc site, for posting articles related to Cybersecurity.
-- [Living Lab](https://livinglab.satc.edu.br/) - Landing Page for the Electrical Engineering project focused on electric vehicle charging solutions for electric mobility.
-
-I’m constantly working on new projects to learn and improve my skills.
-
-<h2 align="center">🎓 <strong>Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</strong> 🎓</h2>
 <div align="center">
-  <a href="https://validade.satc.edu.br/api/files/f7ac5fbda2fe7ff1460fb086253c8792.pdf">
-  <img src="https://github.com/user-attachments/assets/90772a93-1887-412e-a8e8-bbd07ab7bb51" alt="Desenvolvedor de Software" width="150px">
-</a>
-  <a href="https://validade.satc.edu.br/api/files/73d1b0a3f1ac450e271852dadc4b9063.pdf">
-  <img src="https://github.com/user-attachments/assets/63c26d96-7d65-4185-8a10-af8d313281d2" alt="Arquiteto de Testes de Software" width="150px">
-</a>
-  <a href="https://validade.satc.edu.br/api/files/54a3c8f58d49bb6896143de91c2859ca.pdf">
-  <img src="https://github.com/user-attachments/assets/e04833eb-0b4a-4acf-aa16-1392809ab8f6" alt="Analista em Requisitos de Software" width="150px">
-</a>
-  <a href="https://app.rocketseat.com.br/certificates/5642c309-50d1-458e-8db3-62c7f568c763">
-  <img src="https://github.com/user-attachments/assets/43c84dbe-132b-4ac1-85b8-052fa082ecf1" alt="Fundamentos Java" width="150px">
-</a>
-<a href="https://app.rocketseat.com.br/certificates/fccbe41b-3a3f-46be-a15a-bae9af7ab535">
-  <img src="https://github.com/user-attachments/assets/97eab74f-be66-409a-ba74-7aafbf6f7e18" alt="Minicurso de Python" width="150px">
-</a>
-<a href="https://app.rocketseat.com.br/certificates/0068e380-11b2-4c94-b8ed-06762762b894">
-  <img src="https://github.com/user-attachments/assets/e7ad4f3b-c69c-4407-b6bc-0a4df39b80bf" alt="Minicurso de Java" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/tailwind-css-estilizando-pagina-classes-utilitarias">
-  <img src="https://github.com/user-attachments/assets/c75fa68c-2cf6-4648-ae3c-09d97f637051" alt="Tailwind CSS: estilizando a sua página com classes utilitárias" width="150px ">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-metodos-array">
-  <img src="https://github.com/user-attachments/assets/409ce46f-9ad3-40a1-84ff-077024360a35" alt="JavaScript: métodos de array" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-criando-requisicoes">
-  <img src="https://github.com/user-attachments/assets/710127fb-0140-4495-bc3c-9761c12d8566" alt="JavaScript: criando requisições" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-web-dados-navegador">
-  <img src="https://github.com/user-attachments/assets/fde1217e-c9c6-4f39-9cf0-e87d85ff9320" alt="JavaScript na Web: armazenando dados no navegador" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-web-dados-navegador">
-  <img src="https://github.com/user-attachments/assets/fde1217e-c9c6-4f39-9cf0-e87d85ff9320" alt="JavaScript na Web: armazenando dados no navegador" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/logica-programacao-javascript-html">
-  <img src="https://github.com/user-attachments/assets/ee66e056-3163-4bc1-8168-9bd1bbc85684" alt="JavaScript e HTML: desenvolva um jogo e pratique lógica de programação" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/html-css-cabecalho-footer-variaveis-css">
-  <img src="https://github.com/user-attachments/assets/5b5ad3b8-a164-4147-b664-7e713e3ba2fc" alt="HTML e CSS: cabeçalho, footer e variáveis CSS" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/html-css-ambiente-arquivos-tags">
-  <img src="https://github.com/user-attachments/assets/d003167f-cc64-4b34-94b8-af76453b7a49" alt="HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/excel-introducao">
-  <img src="https://github.com/user-attachments/assets/53d4bf12-1578-44c9-9404-dbb211d00fa7" alt="Excel: domine o editor de planilhas" width="150px">
-</a>
-<a href="https://certificados.nutror.com/download/dde826463847d54a508c873872337ae44790822c/14755160/1/curso-conhecendo-a-area-de-jogos-digitais.pdf">
-  <img src="https://github.com/user-attachments/assets/cc9c857a-23c9-4d7b-b851-87c7789de9b5" alt="Conhecendo a Área de Jogos Digitais" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/css-construindo-layouts-grid">
-  <img src="https://github.com/user-attachments/assets/799a723e-596d-4f16-b48b-64f4d3680f56" alt="CSS: construindo layouts com Grid" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/sass-css-sintaticamente-espetacular">
-  <img src="https://github.com/user-attachments/assets/4188c960-ccc9-4343-ab51-88bdbd54ec15" alt="SASS: CSS sintaticamente espetacular" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/praticando-css-grid-flexbox">
-  <img src="https://github.com/user-attachments/assets/16a0ff3f-606a-429a-b149-33aefb8234c9" alt="Praticando CSS: Grid e Flexbox" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/logica-programacao-mergulhe-programacao-javascript">
-  <img src="https://github.com/user-attachments/assets/54b1d375-8e39-40f3-bd79-5f2c6b758241" alt="Lógica de programação: mergulhe em programação com JavaScript" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/logica-programacao-funcoes-listas">
-  <img src="https://github.com/user-attachments/assets/18049d35-670d-4735-a053-8a5d7374b9be" alt="Lógica de programação: explore funções e listas" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/pong-javascript">
-  <img src="https://github.com/user-attachments/assets/50d8a8ea-43eb-427b-bf6c-07b1f3b29d77" alt="Lógica de programação: comece em lógica com o jogo Pong e JavaScript" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-validacoes-reconhecimento-voz">
-  <img src="https://github.com/user-attachments/assets/7d457a74-ee0c-42a6-90a6-2d392500fec0" alt="JavaScript: validações e reconhecimento de voz" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-validando-formularios">
-  <img src="https://github.com/user-attachments/assets/68c686a3-227d-4a36-8f4a-16e278ca8f35" alt="JavaScript: validando formulários" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-manipulando-elementos-dom">
-  <img src="https://github.com/user-attachments/assets/2c1e22f8-df2b-4840-97ff-afe585571763" alt="JavaScript: manipulando elementos no DOM" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-consumindo-tratando-dados-api">
-  <img src="https://github.com/user-attachments/assets/fd316cc7-7942-458b-b12b-bdc8be177cfb" alt="JavaScript: consumindo e tratando dados de uma API" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/javascript-web-paginas-dinamicas">
-  <img src="https://github.com/user-attachments/assets/8340e7a0-9d8e-45de-a6e0-f20aa74fd6b6" alt="JavaScript para Web: Crie páginas dinâmicas" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/java-criando-primeira-aplicacao">
-  <img src="https://github.com/user-attachments/assets/448ff80e-24bb-41cf-974f-24a98fdc1680" alt="Java: criando a sua primeira aplicação" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/html-css-responsividade-publicacao-projetos">
-  <img src="https://github.com/user-attachments/assets/b5aa975c-b81b-4332-a17e-c97c3bf58147" alt="HTML e CSS: trabalhando com responsividade e publicação de projetos" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/html-css-responsividade-mobile-first">
-  <img src="https://github.com/user-attachments/assets/0022b09a-dbc1-45f3-9086-4fb75b734cda" alt="HTML e CSS: responsividade com mobile-first" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/html-css-praticando-html-css">
-  <img src="https://github.com/user-attachments/assets/79630272-0f8e-44c0-b85f-5bf0b71043fc" alt="HTML e CSS: praticando HTML/CSS" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/html-css-classes-posicionamento-flexbox">
-  <img src="https://github.com/user-attachments/assets/b3a16922-910e-4f56-9821-654b74b75113" alt="HTML e CSS: Classes, posicionamento e Flexbox" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/git-github-compartilhando-colaborando-projetos">
-  <img src="https://github.com/user-attachments/assets/c0eeb097-c643-4789-b9ad-6cc853edf854" alt="Git e GitHub: compartilhando e colaborando em projetos" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/Marcirionaum2017/css-flexbox-layouts-responsivos">
-  <img src="https://github.com/user-attachments/assets/aeb25fe1-8b80-42bd-adb8-24358f3ce240" alt="CSS: Flexbox e layouts responsivos" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/8a587483-439a-4f45-85a8-c7e92ffa91ef?lang=pt_BR">
-  <img src="https://github.com/user-attachments/assets/6e223ebd-012d-4e91-b05c-217d42c15bcc" alt="React: desenvolvendo em React Router com JavaScript" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/4d228257-c3ab-461a-a75a-554ef70f0065?lang=pt_BR">
-  <img src="https://github.com/user-attachments/assets/1606ffdb-4bc6-4d21-a0d1-59128bc3b65b" alt="React: desenvolvendo com JavaScript" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/03c4cac1-181c-46fe-b437-7ba4908f7861?lang=pt_BR">
-  <img src="https://github.com/user-attachments/assets/a502ad5c-4ccc-460e-b442-3066e6ff8de7" alt="React: como os componentes funcionam" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/1d979bc1-f925-4913-be83-3c49c7c236c1?lang=pt_BR">
-  <img src="https://github.com/user-attachments/assets/ecaa38ab-914e-48e6-8b91-03501b3e848e" alt="React: praticando React com Js" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/426c398c-9079-4c60-a354-49f6e26ce760?lang=pt_BR">
-  <img src="https://github.com/user-attachments/assets/c088a89d-b32b-49a6-a3cf-944a4a6f9195" alt="React: gerencie estados globalmente com Context API" width="150px">
-</a>
-<a href="https://cursos.alura.com.br/certificate/10887148-b3b3-4b55-b32f-db4b005eacfe?lang=pt_BR">
-  <img src="https://github.com/user-attachments/assets/e37f7e13-e25b-40e4-96a0-ecdaba53e176" alt="React: estilize componentes com Styled Components e manipule arquivos estáticos" width="150px">
-</a>
+
+  <!-- Languages -->
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+  <!-- Frontend -->
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+  <!-- Backend -->
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
-</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🚀 Project One](https://github.com/yourusername/project-one) | Short description of what it does | React, Node.js |
+| [⚡ Project Two](https://github.com/yourusername/project-two) | Short description of what it does | Python, FastAPI |
+| [🛠️ Project Three](https://github.com/yourusername/project-three) | Short description of what it does | Next.js, PostgreSQL |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
